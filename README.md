@@ -2,7 +2,7 @@
 
 ## 1. Descrição do Sistema
 
-No jogo fuga da prisão, você tem a missão de coletar as chaves do labirinto enquanto agentes policiais fazem de tudo para te encontrar e capturar. Seja agil e fuja antes que eles te pegem! Este jogo foi criado com o desígnio de explorar e aumentar as acuidades dos educandos na Unicesumar do curso de Engenharia de Software
+No jogo fuga da prisão, você tem a missão de coletar as chaves do labirinto enquanto agentes policiais fazem de tudo para te encontrar e capturar. Seja agil e fuja antes que eles te pegem! Este jogo foi criado com o desígnio de explorar e aumentar as acuidades dos educandos na Unicesumar do curso de Engenharia de Software. Voltado a matéria "Linguagens e técnicas de programação" e intruido pelo Professor Dácio Machado, nosso projeto foi desenvolvido na linguagem C e criada para rodar no terminal.
 
 ## 2. Fluxo de Utilização Esperado para o Sistema
 
