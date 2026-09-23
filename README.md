@@ -10,13 +10,13 @@ Este jogo foi criado com o desígnio de explorar e aumentar as acuidades dos edu
 
 ## 2. Fluxo de Utilização Esperado para o Sistema
 
-`1. Novo Jogo`
-`2. Carregar Jogo`
-`3. Recordes`
-`4. Como Jogar`
-`5. Sair`
+`1. Novo Jogo`<br>
+`2. Carregar Jogo`<br>
+`3. Recordes`<br>
+`4. Como Jogar`<br>
+`5. Sair`<br>
 
-`Escolha uma opção:`
+`Escolha uma opção:`<br>
 
 **1. Novo Jogo:** inicia uma nova partida, colocando o jogador na primeira fase da prisão e apresentando o mapa, os guardas, as chaves e a porta de saída.
 
