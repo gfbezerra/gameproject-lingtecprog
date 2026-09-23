@@ -31,7 +31,7 @@ Após a execução de qualquer opção que não seja `4. Sair`, o sistema poder�
 
 ## 3. Fluxograma da Lógica do Sistema
 
-![Fluxograma Principal](Fluxograma_Jogo_em_png.drawio.png)
+![Fluxograma Principal](fluxograma_fundo_branco.png)
 
 ## 4. Estrutura de Dados
 
