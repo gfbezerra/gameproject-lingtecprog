@@ -371,27 +371,27 @@ Uma possível organização será:
 
 text id="a6i9c2"
 Fuga-da-Prisao/
-│<br>
+ │<br>
 ├── main.c<br>
-│<br>
+ │<br>
 ├── game.c<br>
 ├── game.h<br>
-│<br>
+ │<br>
 ├── mapa.c<br>
 ├── mapa.h<br>
 │<br>
 ├── jogador.c<br>
 ├── jogador.h<br>
-│<br>
+ │<br>
 ├── guardas.c<br>
 ├── guardas.h<br>
-│<br>
+ │<br>
 ├── fase.c<br>
 ├── fase.h<br>
-│<br>
+ │<br>
 ├── arquivos.c<br>
 ├── arquivos.h<br>
-│<br>
+ │<br>
 ├── save.txt<br>
 ├── recordes.txt<br>
 ├── fluxograma_fundo_branco.png<br>
