@@ -368,7 +368,7 @@ Caso não existam recordes registrados ou o arquivo ainda não tenha sido criado
 Para facilitar a organização e manutenção do código, o projeto será dividido em diferentes arquivos e módulos.
 
 Uma possível organização será:
-```
+``` text
 text id="a6i9c2"
 Fuga-da-Prisao/
 │
