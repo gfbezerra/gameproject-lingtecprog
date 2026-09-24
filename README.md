@@ -368,33 +368,33 @@ Caso não existam recordes registrados ou o arquivo ainda não tenha sido criado
 Para facilitar a organização e manutenção do código, o projeto será dividido em diferentes arquivos e módulos.
 
 Uma possível organização será:
-``` text
-text id="a6i9c2"
-Fuga-da-Prisao/
+
+```text id="a6i9c2"
+Fuga-da-Prisao
 │
-├── main.c<br>
+├── main.c
 │
-├── game.c<br>
-├── game.h<br>
+├── game.c
+├── game.h
 │
-├── mapa.c<br>
-├── mapa.h<br>
+├── mapa.c
+├── mapa.h
 │
-├── jogador.c<br>
-├── jogador.h<br>
+├── jogador.c
+├── jogador.h
 │
-├── guardas.c<br>
-├── guardas.h<br>
+├── guardas.c
+├── guardas.h
 │
-├── fase.c<br>
-├── fase.h<br>
+├── fase.c
+├── fase.h
 │
-├── arquivos.c<br>
-├── arquivos.h<br>
+├── arquivos.c
+├── arquivos.h
 │
-├── save.txt<br>
-├── recordes.txt<br>
-├── fluxograma_fundo_branco.png<br>
+├── save.txt
+├── recordes.txt
+├── fluxograma_fundo_branco.png
 └── README.md
 ```
 
