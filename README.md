@@ -370,7 +370,7 @@ Para facilitar a organização e manutenção do código, o projeto será dividi
 Uma possível organização será:
 
 text id="a6i9c2" <br>
-Fuga-da-Prisao/
+Fuga-da-Prisao/ <br>
 │<br>
 ├── main.c<br>
 │<br>
