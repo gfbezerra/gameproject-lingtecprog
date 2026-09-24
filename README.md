@@ -363,3 +363,71 @@ Caso não existam recordes registrados ou o arquivo ainda não tenha sido criado
 
 ---
 
+## 5. Estrutura Lógica e Modularização Planejada
+
+Para facilitar a organização e manutenção do código, o projeto será dividido em diferentes arquivos e módulos.
+
+Uma possível organização será:
+
+text id="a6i9c2"
+Fuga-da-Prisao/
+│
+├── main.c
+│
+├── game.c
+├── game.h
+│
+├── mapa.c
+├── mapa.h
+│
+├── jogador.c
+├── jogador.h
+│
+├── guardas.c
+├── guardas.h
+│
+├── fase.c
+├── fase.h
+│
+├── arquivos.c
+├── arquivos.h
+│
+├── save.txt
+├── recordes.txt
+├── fluxograma_fundo_branco.png
+└── README.md
+
+
+As responsabilidades serão divididas inicialmente da seguinte maneira:
+
+| Módulo                    | Responsabilidade                                   |
+| ------------------------- | -------------------------------------------------- |
+| main.c                  | Inicialização do programa e controle principal     |
+| game.c / game.h         | Menu e fluxo geral da partida                      |
+| mapa.c / mapa.h         | Exibição do mapa, movimentação e colisões          |
+| jogador.c / jogador.h   | Dados e ações relacionadas ao jogador              |
+| guardas.c / guardas.h   | Movimentação, patrulhamento e detecção dos guardas |
+| fase.c / fase.h         | Chaves, portas e progressão das fases              |
+| arquivos.c / arquivos.h | Salvamento, carregamento e recordes                |
+
+Essa divisão tem como objetivo evitar a concentração de toda a lógica em um único arquivo, facilitando a modularização e a organização do projeto.
+
+---
+
+## 6. Conceitos da Linguagem C Planejados
+
+Durante o desenvolvimento do projeto serão aplicados os seguintes conceitos:
+
+* funções de entrada e saída;
+* estruturas condicionais;
+* estruturas de repetição;
+* funções e modularização;
+* vetores;
+* strings;
+* matrizes;
+* estruturas (struct);
+* vetores de estruturas;
+* leitura e escrita em arquivos;
+* divisão do projeto em arquivos .c e .h.
+
+Esses recursos serão utilizados de acordo com as necessidades de cada módulo do jogo.
