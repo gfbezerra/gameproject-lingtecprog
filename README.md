@@ -371,31 +371,31 @@ Uma possível organização será:
 
 text id="a6i9c2"
 Fuga-da-Prisao/
-│
-<br>├── main.c
-<br>│
-<br>├── game.c
-<br>├── game.h
-<br>│
-<br>├── mapa.c
-<br>├── mapa.h
-<br>│
-<br>├── jogador.c
-<br>├── jogador.h
-<br>│
-<br>├── guardas.c
-<br>├── guardas.h
-<br>│
-<br>├── fase.c
-<br>├── fase.h
-<br>│
-<br>├── arquivos.c
-<br>├── arquivos.h
-<br>│
-<br>├── save.txt
-<br>├── recordes.txt
-<br>├── fluxograma_fundo_branco.png
-<br>└── README.md
+│<br>
+├── main.c<br>
+│<br>
+├── game.c<br>
+├── game.h<br>
+│<br>
+├── mapa.c<br>
+├── mapa.h<br>
+│<br>
+├── jogador.c<br>
+├── jogador.h<br>
+│<br>
+├── guardas.c<br>
+├── guardas.h<br>
+│<br>
+├── fase.c<br>
+├── fase.h<br>
+│<br>
+├── arquivos.c<br>
+├── arquivos.h<br>
+│<br>
+├── save.txt<br>
+├── recordes.txt<br>
+├── fluxograma_fundo_branco.png<br>
+└── README.md
 
 
 As responsabilidades serão divididas inicialmente da seguinte maneira:
