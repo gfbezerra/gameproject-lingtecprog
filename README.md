@@ -432,7 +432,7 @@ Durante o desenvolvimento do projeto serão aplicados os seguintes conceitos:
 
 Esses recursos serão utilizados de acordo com as necessidades de cada módulo do jogo.
 
-Compilar e executar
+##Compilar e executar
 Dev-C++: abra `Projeto1.dev` (todos os arquivos ja estao no projeto) e aperte F11.
 Com GCC e Make:
 ```sh
@@ -443,7 +443,7 @@ Sem Make:
 ```sh
 gcc -std=c99 -Wall -Wextra -pedantic main.c game.c mapa.c jogador.c guardas.c fase.c arquivos.c -o fuga
 ```
-Modulos
+##Modulos
 Arquivo	Responsabilidade
 `main.c`	ponto de entrada
 `game.c`	menu, leitura de teclas, telas e fluxo de cada turno
