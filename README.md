@@ -431,3 +431,25 @@ Durante o desenvolvimento do projeto serão aplicados os seguintes conceitos:
 * divisão do projeto em arquivos .c e .h.
 
 Esses recursos serão utilizados de acordo com as necessidades de cada módulo do jogo.
+
+Compilar e executar
+Dev-C++: abra `Projeto1.dev` (todos os arquivos ja estao no projeto) e aperte F11.
+Com GCC e Make:
+```sh
+make
+./fuga
+```
+Sem Make:
+```sh
+gcc -std=c99 -Wall -Wextra -pedantic main.c game.c mapa.c jogador.c guardas.c fase.c arquivos.c -o fuga
+```
+Modulos
+Arquivo	Responsabilidade
+`main.c`	ponto de entrada
+`game.c`	menu, leitura de teclas, telas e fluxo de cada turno
+`mapa.c`	tela (limpar, redesenhar sem piscar, cores), desenho do mapa e movimento do jogador
+`jogador.c`	nome e suspeita
+`guardas.c`	patrulha e campo de visao
+`fase.c`	desenhos das fases, validacao, chaves e porta
+`arquivos.c`	salvar/carregar e ranking
+`jogo.h`	estruturas e constantes de balanceamento
