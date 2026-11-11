@@ -77,6 +77,7 @@ Os principais símbolos utilizados poderão ser:
 | `.`     | Espaço livre        |
 | `@`     | Jogador             |
 | `G`     | Guarda              |
+| `:`     | Visão do Guarda     |
 | `C`     | Chave               |
 | `P`     | Porta ou saída      |
 
